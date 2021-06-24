@@ -1,5 +1,8 @@
-# networks2021
-Networks 2021 Workshop 8: Algebraic analysis of complex social networks
+# Networks 2021
+Networks 2021 Workshop 8: Algebraic analysis of complex social networks &nbsp;&nbsp;&nbsp; ([link](https://whova.com/embedded/session/njcn_202106/1712568/?view=))
+
+Date: 24 June 2021
+
 
 <br />
 
