@@ -9,7 +9,7 @@ Date: 24 June 2021
 |Folder|Description|
 |---|---|
 |data|data files for workshop|
-|pres|related `html` files and presentation|
+|pres|related `html` files from presentation|
 
 <br />
 
